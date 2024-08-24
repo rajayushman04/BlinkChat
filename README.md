@@ -6,4 +6,4 @@ BlinkChat – Video Conferencing Platform
 - Built features like screen sharing, real-time chat, and meeting recording to boost collaboration.
 - Handled back-end development with Node.js and managed databases for user data and meeting schedules.
 - Deployed the application on AWS, ensuring scalability and reliability.
-- Technologies: React.js, Node.js, WebRTC, MongoDB, AWS
+- Technologies: Next.js, TypeScript, Clerk, getstream, shadcn, Tailwind CSS, AWS
